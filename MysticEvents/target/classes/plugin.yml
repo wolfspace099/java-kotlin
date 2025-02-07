@@ -1,0 +1,7 @@
+name: MysticEvents
+version: '1.0'
+main: me.space.mysticevents.MysticEvents
+api-version: '1.21'
+commands:
+  mystic:
+    permission: op
